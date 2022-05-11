@@ -13,7 +13,7 @@
 
 - ⚡ Fun fact **I go to Mission Bay High School here in San Diego**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: [Instagram](https://www.instagram.com/inspiredtravelphotography/ "Instagram")</h3>
 <p align="left">
 </p>
 
