@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Seth</h1>
 <h3 align="center">A passionate frontend developer from the United States</h3>
 
-- 🔭 I’m currently working on **Border Dashboard**
+- 🔭 I’m currently working on **Analytics**
 
-- 🌱 I’m currently learning **R, Redis, Docker, Google Cloud**
+- 🌱 I’m currently learning **Java, TenserFlow, Memcached**
 
 - 👯 I’m looking to collaborate on **any up and coming Svelte project**
 
-- 💬 Ask me about **Svelte-Kit!**
+- 💬 Ask me about **Svelte Kit!**
 
 - 📫 How to reach me **smphotography39@gmail.com**
 
-- ⚡ Fun fact: **I go to Mission Bay High School here in San Diego**
+- ⚡ Fun fact: **I go to Mission Bay High School in San Diego, California**
 
 <h3 align="left">Connect with me: https://www.instagram.com/inspiredtravelphotography/</h3>
 <p align="left">
