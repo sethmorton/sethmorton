@@ -11,7 +11,6 @@
 
 - ⚡ Fun fact - **I go to Northeastern University in Boston, MA - Go Huskies! 🐕**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
