@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Company Sentiment Tracker**
 
-- 🌱 I’m currently learning **Mojo, TensorFlow.JS, MongoDB**
+- 🌱 I’m currently learning **Mojo, TensorFlow.JS, BigQuery**
 
 - 💬 Ask me about **SvelteKit**
 
