@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Seth</h1>
 <h3 align="center">A frontend developer from the United States</h3>
 
-- 🔭 I’m currently working on **Baja Bound Analytics**
+- 🔭 I’m currently working on **Company Sentiment Tracker**
 
-- 🌱 I’m currently learning **Mojo, Tailwind, Flutter**
+- 🌱 I’m currently learning **Mojo, TensorFlow.JS, MongoDB**
 
-- 💬 Ask me about **Svelte Kit**
+- 💬 Ask me about **SvelteKit**
 
 - 📫 How to reach me **smphotography39@gmail.com**
 
