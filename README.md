@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Seth</h1>
 <h3 align="center">A full-stack developer from the United States</h3>
 
-- 🔭 I’m currently working on **Voltare**
+- 🔭 I’m currently working on **Ramble**
 
-- 🌱 I’m currently learning **Mojo, TensorFlow.JS, BigQuery**
+- 🌱 I’m currently learning **Flutter, Amazon S3, BigQuery**
 
 - 💬 Ask me about **SvelteKit**
 
