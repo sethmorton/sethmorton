@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **smphotography39@gmail.com**
 
-- ⚡ Fun fact - **I go to Tufts University in Boston, MA - Go Jumbos! 🐕**
+- ⚡ Fun fact - **I go to Tufts University in Boston, MA - Go Jumbos! 🐘**
 
 <p align="left">
 </p>
