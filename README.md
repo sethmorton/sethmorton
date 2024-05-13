@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Seth</h1>
 <h3 align="center">A full-stack developer from the United States</h3>
 
-- 🔭 I’m currently working on **Serendipity**
+- 🔭 I’m currently working on **Renavest**
 
-- 🌱 I’m currently learning **Flutter, sklearn, BigQuery**
+- 🌱 I’m currently learning **Flutter, sklearn, Julia**
 
 - 💬 Ask me about **SvelteKit**
 
 - 📫 How to reach me **smphotography39@gmail.com**
 
-- ⚡ Fun fact - **I go to Northeastern University in Boston, MA - Go Huskies! 🐕**
+- ⚡ Fun fact - **I go to Tufts University in Boston, MA - Go Jumbos! 🐕**
 
 <p align="left">
 </p>
