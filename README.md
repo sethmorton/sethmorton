@@ -11,6 +11,8 @@
 
 - ⚡ Fun fact - **I go to Tufts University in Boston, MA - Go Jumbos! 🐘**
 
+- 🌐 Personal Website - ** [https://sethmorton.xyz] **
+
 <p align="left">
 </p>
 
