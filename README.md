@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on **Renavest**
 
-- 🌱 I’m currently learning **Flutter, sklearn, Julia**
+- 🌱 I’m currently learning **Go, Mojo, Music Theory 🎶 **
 
 - 💬 Ask me about **SvelteKit**
 
-- 📫 How to reach me **smphotography39@gmail.com**
+- 📫 How to reach me **seth.morton@tufts.edu**
 
 - ⚡ Fun fact - **I go to Tufts University in Boston, MA - Go Jumbos! 🐘**
 
