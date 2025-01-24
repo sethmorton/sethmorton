@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Renavest**
 
-- 🌱 I’m currently learning **Go, Mojo, Music Theory 🎶 **
+- 🌱 I’m currently learning **Go, Mojo, Music Theory 🎶**
 
 - 💬 Ask me about **SvelteKit**
 
