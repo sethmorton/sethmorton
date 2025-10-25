@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **GeneLoop**
 
-- 🌱 On the side, I'm currently learning **Yamanaka Factors and Music Theory 🎶**
+- 🌱 On the side, I'm currently learning **Proteomics and Music Theory 🎶**
 
 - 💬 Ask me about **Plasmids and SvelteKit**
 
@@ -11,4 +11,4 @@
 
 - 🌐 Check out: https://geneloop.bio
 
-Personal Website - https://sethmorton.xyz
+Personal Website - https://sethmorton.com
