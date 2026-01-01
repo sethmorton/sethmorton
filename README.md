@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Strand**
 
-- 🌱 On the side, I'm currently learning **Thermodynamics and Keynesian economics **
+- 🌱 On the side, I'm currently learning **Thermodynamics and Keynesian economics**
 
 - 💬 Ask me about **SvelteKit & Microbes**
 
